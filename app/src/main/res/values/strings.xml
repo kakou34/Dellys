@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Dellys</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="history">History</string>
+    <string name="beaches">Beaches</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="transport">Transport</string>
+    <string name="les_salines">Les Salines</string>
+    <string name="zawech">Hadjret Ezzawech</string>
+    <string name="ramla">Ramla</string>
+    <string name="casbah">The Casbah of Dellys</string>
+    <string name="vieux_port">The Old Port</string>
+    <string name="old_mosque">The Old Mosque</string>
+    <string name="bengut">Cap of Bengut</string>
+    <string name="abdelkader">Cap Sidi Abdelkader</string>
+    <string name="chateau">Chateau Faurd</string>
+    <string name="sidi_lharfi">Mausoleum Of Sidi Lharfi</string>
+    <string name="allalou">Allalou</string>
+    <string name="talawaldoun">Tala waldoun</string>
+    <string name="baraka">El Baraka Restaurant</string>
+    <string name="medjni">El Medjni Restaurant</string>
+    <string name="port">Port Restaurant</string>
+    <string name="oued_medjni">Oued Tiza - El Medjni</string>
+    <string name="oued_afir">Oued Tiza - Afir</string>
+    <string name="dellys_tizi">Dellys - Tizi Ouzou</string>
+    <string name="dellys_alg">Dellys - Alger</string>
+    <string name="dellys_bagh">Dellys - Baghlia</string>
+    <string name="dellys_bmrds">Dellys - Boumerdes</string>
+    <string name="dellys_sidid">Dellys - Sidi Daoued</string>
+    <string name="free">Free-24h</string>
+    <string name="free_mosque">Free- 4am to 23pm</string>
+    <string name="entrence_limit">Enterence limited</string>
+    <string name="free_lharfi">Free- 9am to 17pm </string>
+    <string name="guarded">Free-Guarded</string>
+    <string name="unguarded">Free-Unguarded</string>
+    <string name="restaurant6">6am-21pm Opened</string>
+    <string name="restaurant10">10am-22pm Opened</string>
+    <string name="bus5">Every 5 minutes</string>
+    <string name="bus10">Every 10 minutes</string>
+    <string name="bus15">Every 15 minutes</string>
+    <string name="bus20">Every 20 minutes</string>
+    <string name="bus30">Every 30 minutes</string>
+
+</resources>
